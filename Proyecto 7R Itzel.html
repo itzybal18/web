@@ -1,0 +1,177 @@
+<html>
+<head>
+<h1>
+<center>
+<h1 style="border: 2px solid black; font-family: Arial Rounded MT Bold; color:ForestGreen;"> 7 R´s de la Sostenibilidad.</h1>
+</h1>
+<title>
+Proyecto 7 R´s.</title>
+<style>
+table {
+width: 80%;
+border-collapse: collapse;
+margin-top: 20px;}
+th, td {
+border: 1px solid #009688;
+padding: 10px;
+font-family: Arial;
+text-align: center;}
+</style>
+</head>
+<body>
+<body style="background-color:PaleGoldenrod"></body>
+<center>
+<h1><p style="font-family: Comic Sans MS;font- size: 16 px;color:DarkOrange;">¿Que son las 7 R´s?
+</center>
+<p style="text-align: justify;font-family: Arial;font- size: 16 px;">
+Las 7 R son una evolución del concepto original de las 3 R (Reducir, Reutilizar, Reciclar) que surgió en la década de 1970 como parte de campañas ambientales. Con el tiempo, se ampliaron para formar un sistema más completo de gestión ambiental que busca combatir el consumo excesivo y el modelo lineal de "usar y tirar".
+<p style="text-align: justify;font-family: Arial;font- size: 16 px;">
+Estas acciones están ordenadas jerárquicamente: primero se debe intentar rediseñar o reducir antes que reciclar, ya que esto evita que los residuos se generen desde el principio.
+<div align="center">
+<figure>
+<img src="C:\Users\dell\Downloads\reciclaje_nature-3294632_1280.jpg" align="center" width="500" height="300" alt="El auge de la sostenibilidad y el aumento de la preocupación por el daño que se está haciendo al medioambiente han hecho que se vaya más allá y se ofrezcan más opciones para cuidarlo.">
+<figcaption style="text-align: center;font-family: Arial;font- size: 16 px;">El auge de la sostenibilidad y el aumento de la preocupación por el daño que se está haciendo al medioambiente han hecho que se vaya más allá y se ofrezcan más opciones para cuidarlo.</figcaption>
+</figure>
+</div>
+<center>
+<a href="C:\Users\dell\Documents\que son las 7 r.html">Que son las 7R.</a>
+</center>
+<h2>
+<p style="text-align: justify;font-family: Comic Sans MS;font- size: 16 px;color:DarkOrange;">¿Que beneficios tienen las 7 R´s?
+</h2>
+<p style="text-align: justify;font-family: Arial;font- size: 16 px;">La regla de las 7 erres es la apuesta por la economía circular y eso solo genera ahorro y ganancias para el planeta y los que lo habitamos:
+<ul>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Menos residuos, es decir, menos basura y menos contaminación.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Menos uso de materias primas porque son finitas.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Menos gasto, ya que se usan menos energía y recursos.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Mayor aprovechamiento de esos recursos al darles más oportunidades a las cosas.</li>
+</ul>
+<figure style="float: left; margin: 10px; text-align: center; width: 300px;">
+<img src="C:\Users\dell\Downloads\people-caring-for-the-environment-on-earth-day-free-vector.jpg" alt="Por un planeta mas sano." style="width: 100%; border-radius: 10px;">
+<figcaption style="font-family: Arial;font-size: 16px; color:"dark";">Por un planeta con mas vida.</figcaption>
+</figure>
+<figure style="float: right; margin: 10px; text-align: center; width: 300px;">
+<img src="C:\Users\dell\Downloads\a-tree-with-leaves-of-the-world-map-concept-environment-save-the-world-photo.jpg" alt="Descripción de la imagen" style="width: 100%; border-radius: 10px;">
+<figcaption style="font-family: Arial;font-size: 14px; color:"dark">Hagamos del planeta un lugar mas verde.</figcaption>
+</figure>
+<h2>
+<p style="text-align: center;font-family: Comic Sans MS;font- size: 16 px;color:DarkOrange;">
+¿Donde aplicar las 7 R´s?
+</h2>
+<details name = "cookies">
+<summary style="text-align: justify;font-family: Arial;font- size: 16 px;">En casa.</summary>
+<ul>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Rediseñar hábitos de consumo.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Usar botellas reutilizables y bolsas ecológicas.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Reparar electrodomésticos y ropa.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Hacer composta con residuos orgánicos.</li>
+</ul>
+</details>
+<details name = "cookies">
+<summary style="text-align: justify;font-family: Arial;font- size: 16 px;">En empresas.</summary>
+<ul>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Optimizar procesos para generar menos desechos.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Implementar políticas de economía circular.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Apostar por embalajes reciclables o retornables.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Crear programas internos de reciclaje y reutilización.</li>
+</ul>
+</details>
+<details name = "cookies">
+<summary style="text-align: justify;font-family: Arial;font- size: 16 px;">En escuelas.</summary>
+<ul>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Usar cuadernos reutilizables o digitales.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Realizar talleres de reciclaje o manualidades con materiales usados.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Incluir la educación ambiental en los planes de estudio.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Llevar botella de agua reutilizable para reducir el consumo de pet.</li>
+</ul>
+</details>
+<a href="C:\Users\dell\Documents\impacto comunity.html">Impacto de las 7R en mi comunidad.</a>
+<h2>
+<br>
+<p style="text-align: center;font-family: Comic Sans MS;font- size: 16 px;color:DarkOrange;">
+¿Como poner en practica cada 7 R´s?
+</h2>
+<center>
+<table>
+<tr>
+<th>R</th>
+<th>¿Qué implica?</th>
+<th>¿Qué puedes hacer?</th>
+<th>Imagen</th>
+</tr>
+<tr>
+<td>Rediseñar.</td>
+<td>Cambiar el diseño para ser sostenible.</td>
+<td>Elegir productos duraderos, locales o biodegradables</td>
+<td><img src="C:\Users\dell\Downloads\marco-productos-ecologicos.webp" width="100"></td>
+</tr>
+<tr>
+<td>Reducir.</td>
+<td>Consumir menos y mejor.</td>
+<td>Planificar compras, evitar desperdicios.</td>
+<td><img src="C:\Users\dell\Downloads\reducir.jpeg" width="100"></td>
+</tr>
+<tr>
+<td>Reutilizar.</td>
+<td>Volver a usar sin desechar.</td>
+<td>Reutilizar frascos, bolsas, cajas.</td>
+<td><img src="C:\Users\dell\Downloads\images (2).jpeg" width="100"></td>
+</tr>
+<tr>
+<td>Reciclar.</td>
+<td>Separar y transformar materiales.</td>
+<td>Clasificar residuos y llevarlos al punto limpio</td>
+<td><img src="C:\Users\dell\Downloads\rrrr.jpg" width="100"></td>
+</tr>
+<tr>
+<td>Reparar.</td>
+<td>Arreglar lo que se rompe.</td>
+<td>Buscar talleres o tutoriales de reparación.</td>
+<td><img src="C:\Users\dell\Downloads\tallerrr.jpg" width="100"></td>
+</tr>
+<tr>
+<td>Recuperar.</td>
+<td>Extraer valor de residuos.</td>
+<td>Hacer compost, reciclar electrónica.</td>
+<td><img src="C:\Users\dell\Downloads\recuperar07.jpg" width="100"></td>
+</tr>
+<tr>
+<td>Rechazar.</td>
+<td>No consumir productos dañinos.</td>
+<td>Evitar plásticos de un solo uso o productos tóxicos.</td>
+<td><img src="C:\Users\dell\Downloads\07 Cajita Productos tóxicos.jpg" width="100"></td>
+</tr>
+</table>
+<h2>
+<p style="text-align: center;font-family: Comic Sans MS;font- size: 16 px;color:DarkOrange;">
+Cuida el planeta haciendo uso de las 7 R´s.
+</h2>
+<p style="text-align: center;font-family: Arial;font- size: 16 px;">
+Mira el siguiente video y aprende correctamente como cuidar el planeta.
+<video width="480" controls>
+<source src="C:\Users\dell\Desktop\Downloads\Cuida el planeta haciendo uso de las 7R (1).mp4" type="video/mp4">Tu navegador no soporta video.
+</video>
+</h2>
+<h2>
+<p style="text-align:center;font-family: Comic Sans MS;font- size: 16 px;color:green;">
+¿Sabias que?</p>
+</h2>
+<ul>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;"> Si toda la población viviera como en los países más consumistas, necesitaríamos 3 planetas para abastecernos.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Un solo envase Tetra Pak puede tardar más de 30 años en degradarse si no se recicla.</li>
+<li style="text-align: justify;font-family: Arial;font- size: 16 px;">Algunos países, como Suecia y Japón, reciclan o recuperan más del 90% de sus residuos.</li>
+</ul>
+<div align="center">
+<figure>
+<img src="C:\Users\dell\Desktop\Downloads\IMG_7559.jpg" width="400" height="500" alt=Cartel sobre el cuidado y reciclaje del agua.">
+<figcaption style="text-align: center;font-family: Arial;font- size: 16 px;">Implementa acciones para cuidar al medio ambiente.</figcaption>
+</figure>
+</div>
+<h2>
+<p style="text-align:center;font-family: Comic Sans MS;font- size: 16 px;color:green;">
+Documental sobre el cuidado del medio ambiente.</p>
+</h2>
+<p style="text-align:center;font-family: Arial;font- size: 16 px;"> Escucha y presta atencion al siguente documental donde te informa acerca del como cuidar el medio ambiente.
+<audio src="C:\Users\dell\Desktop\Downloads\videoplayback.m4a" controls></audio>
+</body>
+</html>
